@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "GCC",
+            "includePath": [
+                "C:\\minGW\\mingw64\\mingw64\\include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:/minGW/mingw64/mingw64/bin/g++.exe",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
