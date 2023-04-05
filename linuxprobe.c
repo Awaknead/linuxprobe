@@ -11,4 +11,4 @@ timedatectl;//<显示/修改 时区，系统时间> <timedatectl 参数>
 reboot;//<重启系统>
 poweroff;//<关闭系统>
 wget;//<下载网络文件><wad get>  <wget [参数]网址>
-pc;
+pc;//
